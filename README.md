@@ -15,6 +15,8 @@
 ### 更多前端展示点击：
 
 [更多前端展示+源码获取](https://www.51duoke.cn/games/?id=8)
+<img width="900" height="668" alt="2222" src="https://github.com/user-attachments/assets/bd25bf5b-98da-46c1-94d6-10e1b8b53261" />
+
 
 ![输入图片说明](https://foruda.gitee.com/images/1749707816894313109/d3ff9246_15935100.png "0a8cc341c9b25874db24eb7b65b7653f1528815816.png")
 <img width="401" height="859" alt="首页1" src="https://github.com/user-attachments/assets/5d7870af-f4dd-4e5c-86a5-1b0ac371865c" />
