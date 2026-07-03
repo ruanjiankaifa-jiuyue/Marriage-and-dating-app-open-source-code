@@ -16,9 +16,6 @@
 
 [更多前端展示+源码获取](https://www.51duoke.cn/games/?id=8)
 <img width="900" height="668" alt="2222" src="https://github.com/user-attachments/assets/bd25bf5b-98da-46c1-94d6-10e1b8b53261" />
-
-
-![输入图片说明](https://foruda.gitee.com/images/1749707816894313109/d3ff9246_15935100.png "0a8cc341c9b25874db24eb7b65b7653f1528815816.png")
 <img width="401" height="859" alt="首页1" src="https://github.com/user-attachments/assets/5d7870af-f4dd-4e5c-86a5-1b0ac371865c" />
 <img width="979" height="703" alt="t" src="https://github.com/user-attachments/assets/b8cfbef1-b048-47fe-8592-77c3fd5280d5" />
 
@@ -69,6 +66,5 @@
 用户举报：提供一键举报功能，结合人工复审确保处理时效（<2小时）。
 
 数据加密：采用TLS 1.3协议加密音视频流，使用AES-256加密存储用户敏感信息（如手机号、身份证）。
-![输入图片说明](https://foruda.gitee.com/images/1749707841282942586/ab6446e1_15935100.png "交友2.png")
-![输入图片说明](https://foruda.gitee.com/images/1749707862740846066/a1d3373e_15935100.png "90ddba7aeb70e09fd6bc5b0e0a3fdd1a1528815816.png")
-![输入图片说明](https://foruda.gitee.com/images/1749707961386294359/043635f5_15935100.png "如有问题可联系客服.png")
+<img width="2048" height="1951" alt="双5" src="https://github.com/user-attachments/assets/c3075e5d-4209-4760-a52b-e0c19377afd7" />
+
