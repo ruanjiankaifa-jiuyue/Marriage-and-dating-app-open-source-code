@@ -17,6 +17,9 @@
 [更多前端展示+源码获取](https://www.51duoke.cn/games/?id=8)
 
 ![输入图片说明](https://foruda.gitee.com/images/1749707816894313109/d3ff9246_15935100.png "0a8cc341c9b25874db24eb7b65b7653f1528815816.png")
+<img width="401" height="859" alt="首页1" src="https://github.com/user-attachments/assets/5d7870af-f4dd-4e5c-86a5-1b0ac371865c" />
+<img width="979" height="703" alt="t" src="https://github.com/user-attachments/assets/b8cfbef1-b048-47fe-8592-77c3fd5280d5" />
+
 ### 社交同城交友app亮点:
 
 1、语音视频交友社区，通过用户爱好自动匹配好友，支持语音、视频在线聊天;
